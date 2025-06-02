@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Since September 2025, I have been a Ph.D. student in a joint program between Shenzhen Loop Area Institute and Shandong University. Prior to that, I was enrolled in an academic Master's program at Shandong University from September 2023, advised by Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and co-advised by Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang)).
+Since September 2025, I have been a Ph.D. student in a joint program between Shenzhen Loop Area Institute (SLAI, 深圳河套学院) and Shandong University. Prior to that, I was enrolled in an academic Master's program at Shandong University from September 2023, advised by Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and co-advised by Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang)).
 
 My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. 
 
@@ -28,7 +28,7 @@ My research interests include Few-Shot Learning, Multimodal Learning, and Large 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 One paper is accepted by ICME 2025 (oral)!
 - *2024.10*: &nbsp; Attending ACM MM in Melbourne, Australia.
-- *2024.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
+- *2024.07*: &nbsp;🎉 One paper is accepted by ACM MM 2024!
 
 
 # 📝 Publications 
