@@ -26,9 +26,9 @@ My research interests are primarily focused on Few-Shot Learning and Large Visio
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2025 (oral)!
-- *2024.10*: &nbsp;Attending ACM MM in Melbourne.
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025!
+- *2025.03*: &nbsp;🎉 One paper is accepted by ICME 2025 (oral)!
+- *2024.10*: &nbsp; Attending ACM MM in Melbourne, Australia.
+- *2024.07*: &nbsp;🎉 One paper is accepted by ACM MM 2025!
 
 
 # 📝 Publications 
@@ -42,9 +42,9 @@ Semantic-Aware Adaptation with Hierarchical Multimodal Prompts for Few-Shot Lear
 
 _ICME 2025 (oral)_
 
+</div>
+</div>
 
-</div>
-</div>
 
 <!-- Paper2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/KTPP.png' alt="sym" width="100%"></div></div>
