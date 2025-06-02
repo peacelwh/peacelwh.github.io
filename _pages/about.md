@@ -18,9 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an AI Ph.D. student at Shenzhen Loop Area Institute & Shandong University, working with Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang))
+I'm a Ph.D. student in Artificial Intelligence at Shenzhen Loop Area Institute and Shandong University, working with Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang))
 
-My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. <p style="color: red;"> I am very willing to participate in academic discussions and collaborations, so please feel free to contact me! </p>
+My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. 
+
+<p style="color: red;"> I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me! </p>
 
 
 # 🔥 News
