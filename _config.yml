@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "Focusing on few-shot learning, multimodal learning, and large vision-language models."
+description              : "Focusing on few-shot learning and large multimodal models."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenhao Li (李文浩) "
   avatar           : "images/liwenhao.png"
-  bio              : "Shenzhen Loop Area Institute & Shandong University"
+  bio              : "Shenzhen Loop Area Institute &amp; Shandong University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
