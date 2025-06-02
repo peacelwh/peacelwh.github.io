@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I'm a Ph.D. student in Artificial Intelligence at Shenzhen Loop Area Institute and Shandong University, working with Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang))
+I'm a first-year Ph.D. student in a joint program between Shenzhen Loop Area Institute (深圳河套学院） and Shandong University, working with Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang))
 
 My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. 
 
@@ -74,7 +74,7 @@ _ACM MM 2024_
 - *2022.05* SDUFE President Scholarship (Top 1%)
 
 # 📖 Educations
-- *2025.09 - 2028.06 (expected)*, Ph.D, Shenzhen Loop Area Institute (SLAI) & Shandong University, Artificial Intelligence. 
+- *2025.09 - 2028.06 (expected)*, Ph.D, Shenzhen Loop Area Institute (SLAI) and Shandong University, Artificial Intelligence. 
 - *2023.09 - 2025.06*, MSc, Shandong University (SDU), Software Engineering.
 - *2019.09 - 2023.06*, B.Eng., Shandong University of Finance and Economics (SDUFE), Computer Science and Technology.
 
