@@ -26,13 +26,27 @@ My research interests include Few-Shot Learning, Multimodal Learning, and Large 
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025!
 - *2025.03*: &nbsp;🎉 One paper is accepted by ICME 2025 (oral)!
 - *2024.10*: &nbsp; Attending ACM MM in Melbourne, Australia.
 - *2024.07*: &nbsp;🎉 One paper is accepted by ACM MM 2024!
 
 
 # 📝 Publications 
-<!-- Paper1 -->
+<!-- Paper3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/VT-FSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
+
+**Wenhao Li**, Qiangchang Wang, Xianjing Meng, Zhibin Wu, Yilong Yin
+
+_NeurIPS 2025_
+
+</div>
+</div>
+
+<!-- Paper2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 (oral)</div><img src='images/SAA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,7 +60,7 @@ _ICME 2025 (oral)_
 </div>
 
 
-<!-- Paper2 -->
+<!-- Paper1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/KTPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
