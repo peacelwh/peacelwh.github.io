@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-Since September 2025, I have been a Ph.D. student in a joint program between Shenzhen Loop Area Institute (SLAI, 深圳河套学院) and Shandong University. Prior to that, I was enrolled in an academic Master's program at Shandong University from September 2023, advised by Prof. Yilong Yin ([SDU](https://faculty.sdu.edu.cn/ylyin)) and co-advised by Associate Prof. Qiangchang Wang ([SDU](https://faculty.sdu.edu.cn/wangqiangchang)).
+Since September 2025, I have been pursuing my Ph.D. in a joint program between the Shenzhen Loop Area Institute (SLAI) under the supervision of Prof. [Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ&view_op=list_works&sortby=pubdate) and Shandong University under the supervision of Prof. [Yilong Yin](https://faculty.sdu.edu.cn/ylyin).
+Prior to that, I was enrolled in an academic Master's program at Shandong University from September 2023, advised by Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and co-advised by Associate Prof.  [Qiangchang Wang](https://faculty.sdu.edu.cn/wangqiangchang).
 
 My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. 
 
