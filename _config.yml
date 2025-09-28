@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhao Li (李文浩)"
-description              : "Focusing on Computer Vision and Embodied AI"
+description              : "Focusing on Computer Vision and Embodied AI."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenhao Li (李文浩) "
   avatar           : "images/liwenhao.png"
-  bio              : ""
+  bio              : 
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
