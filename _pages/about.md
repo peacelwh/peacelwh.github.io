@@ -43,7 +43,8 @@ VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
 
 _NeurIPS 2025_
 
-[**Code**](https://github.com/peacelwh/VT-FSL)
+[**Paper**](https://arxiv.org/abs/2509.25033) [**Code**](https://github.com/peacelwh/VT-FSL) 
+
 
 </div>
 </div>
