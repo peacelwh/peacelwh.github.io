@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Since September 2025, I have been pursuing my Ph.D. in a joint program between the Shenzhen Loop Area Institute (SLAI) under the supervision of Prof. [Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ&view_op=list_works&sortby=pubdate) and Shandong University (SDU) under the supervision of Prof. [Yilong Yin](https://faculty.sdu.edu.cn/ylyin).
-Prior to that, I was enrolled in an academic Master's program at Shandong University from September 2023, advised by Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and co-advised by Associate Prof.  [Qiangchang Wang](https://faculty.sdu.edu.cn/wangqiangchang).
+Since September 2023, I have been pursuing a Master-Doctor Program in Artificial Intelligence at Shandong University (SDU), advised by Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and co-advised by Associate Prof.  [Qiangchang Wang](https://faculty.sdu.edu.cn/wangqiangchang). Since September 2025, I have continued my doctoral studies at Shenzhen Loop Area Institute (SLAI) as a joint Ph.D. student, under the supervision of Prof. [Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on the perception and learning of multimodal data in constrained scenarios, such as Few-Shot Classification and Incomplete Multimodal Sentiment Analysis. Relevant works have been published in notable conferences and journals such as NeurIPS, ACM MM, and ICME.
 
-My research interests include Few-Shot Learning, Multimodal Learning, and Large Vision-Language Models. 
+My research interests include Few-Shot Learning, Multimodal Learning, Large Models, and Vision-Language-Action Models. 
 
 <p style="color: red;"> I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me! </p>
 
@@ -90,10 +89,10 @@ _ACM MM 2024_
 - *2022.12* Shandong Government Scholarship, China
 - *2022.05* President Scholarship (Top 1%)
 
-<!--# 📖 Educations
-- *2025.09 - 2028.06 (expected)*, Ph.D, Shenzhen Loop Area Institute (SLAI) and Shandong University, Artificial Intelligence. 
-- *2023.09 - 2025.06*, M.S., Shandong University (SDU), Software Engineering.
-- *2019.09 - 2023.06*, B.Eng., Shandong University of Finance and Economics (SDUFE), Computer Science and Technology.-->
+# 📖 Educations
+- *2025.09 - Present*, Joint Ph.D, Shenzhen Loop Area Institute. 
+- *2023.09 - Present*, Master-Doctor Program, Shandong University, Artificial Intelligence.
+
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
