@@ -19,9 +19,7 @@ redirect_from:
 
 <!--Since September 2023, I have been pursuing a Master-Doctor Program in Artificial Intelligence at Shandong University (SDU), advised by Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and co-advised by Associate Prof.  [Qiangchang Wang](https://faculty.sdu.edu.cn/wangqiangchang).-->
 
-Since September 2023, I have been pursuing an academic Master-Doctor Program in Artificial Intelligence at Shandong University (SDU), under the supervision of Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin). Since September 2025, I have continued my doctoral studies as a joint Ph.D. candidate at Shenzhen Loop Area Institute (SLAI), under the supervision of Prof. [Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on the perception and learning of multimodal data in constrained scenarios, such as Few-Shot Classification and Incomplete Multimodal Sentiment Analysis. Relevant works have been published in notable conferences and journals such as NeurIPS, ACM MM, and ICME.
-
-My research interests include Few-Shot Learning, Multimodal Learning, Large Models, and Vision-Language-Action Models. 
+Since September 2023, I have been pursuing an academic Master-Doctor Program in Artificial Intelligence at Shandong University (SDU), under the supervision of Prof.  [Yilong Yin](https://faculty.sdu.edu.cn/ylyin). Since September 2025, I have continued my doctoral studies as a joint Ph.D. candidate at Shenzhen Loop Area Institute (SLAI), under the supervision of Prof. [Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ&view_op=list_works&sortby=pubdate). My research focuses on the perception and learning of multimodal data in constrained scenarios, such as Few-Shot Classification and Incomplete Multimodal Sentiment Analysis. Relevant works have been published in notable conferences and journals such as NeurIPS, ACM MM, and ICME. My research interests include Few-Shot Learning, Multimodal Learning, Large Models, and Vision-Language-Action Models. 
 
 <p style="color: red;"> I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me! </p>
 
@@ -85,6 +83,7 @@ _ACM MM 2024_
 
 
 # 🎖 Honors and Awards 
+- *2025.10* NeurIPS 2025 Scholar Award.
 - *2024.12* SDU Outstanding Student (First-Class)
 - *2024.11* WEICHAI Power Scholarship (Top 2%)
 - *2023.04* Shandong Outstanding Graduate, China
