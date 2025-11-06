@@ -58,6 +58,8 @@ Semantic-Aware Adaptation with Hierarchical Multimodal Prompts for Few-Shot Lear
 
 _ICME 2025 (oral)_
 
+[**Paper**](https://doi.org/10.1109/ICME59968.2025.11210237) 
+
 </div>
 </div>
 
