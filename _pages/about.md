@@ -42,7 +42,7 @@ VT-FSL: Bridging Vision and Text with LLMs for Few-Shot Learning
 
 _NeurIPS 2025_
 
-[**Paper**](https://arxiv.org/abs/2509.25033) [**Code**](https://github.com/peacelwh/VT-FSL) 
+[**arXiv**](https://arxiv.org/abs/2509.25033) &emsp; [**Code**](https://github.com/peacelwh/VT-FSL) 
 
 
 </div>
@@ -74,7 +74,7 @@ KNN Transformer with Pyramid Prompts for Few-Shot Learning
 
 _ACM MM 2024_
 
-[**Paper**](https://doi.org/10.1145/3664647.3680601)
+[**arXiv**](https://arxiv.org/abs/2410.10227) &emsp; [**Paper**](https://doi.org/10.1145/3664647.3680601) 
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
