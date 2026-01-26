@@ -25,6 +25,7 @@ Since September 2023, I have been pursuing an academic Master-Doctor Program in 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper is accepted by ICLR 2026!
 - *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025!
 - *2025.03*: &nbsp;🎉 One paper is accepted by ICME 2025 (oral)!
 - *2024.10*: &nbsp; Attending ACM MM in Melbourne, Australia.
@@ -32,6 +33,17 @@ Since September 2023, I have been pursuing an academic Master-Doctor Program in 
 
 
 # 📝 Publications 
+<!-- Paper4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/DVLA-RL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DVLA-RL: Dual-Level Vision–Language Alignment with Reinforcement Learning Gating for Few-Shot Learning
+
+**Wenhao Li**,  Xianjing Meng, Qiangchang Wang, Zhongyi Han, Zhibin Wu, Yilong Yin
+
+_ICLR 2026_
+
+
 <!-- Paper3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/VT-FSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
