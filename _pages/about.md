@@ -59,9 +59,9 @@ _NeurIPS 2025_
 
 [**arXiv**](https://arxiv.org/abs/2509.25033) &emsp; [**Code**](https://github.com/peacelwh/VT-FSL) 
 
+</div>
+</div>
 
-</div>
-</div>
 
 <!-- Paper2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025 (oral)</div><img src='images/SAA.png' alt="sym" width="100%"></div></div>
