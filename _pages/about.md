@@ -25,6 +25,7 @@ Since September 2023, I have been pursuing an academic Master-Doctor Program in 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 Co-authored papers are accepted by IEEE TCSVT, IEEE TAI, and Neurcomputing!
 - *2026.01*: &nbsp;🎉 One paper is accepted by ICLR 2026!
 - *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025!
 - *2025.03*: &nbsp;🎉 One paper is accepted by ICME 2025 (oral)!
