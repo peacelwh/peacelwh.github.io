@@ -25,6 +25,7 @@ Since September 2023, I have been pursuing an academic Master-Doctor Program in 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2026!
 - *2026.05*: &nbsp;🎉 Co-authored papers are accepted by IEEE TCSVT, IEEE TAI, and Neurcomputing!
 - *2026.01*: &nbsp;🎉 One paper is accepted by ICLR 2026!
 - *2025.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2025!
@@ -34,6 +35,22 @@ Since September 2023, I have been pursuing an academic Master-Doctor Program in 
 
 
 # 📝 Publications 
+<!-- Paper5 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/SemMSA.png' alt="SemMSA framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data
+
+**Wenhao Li**, Zhibin Wu, Chong Xiao, Qiangchang Wang
+
+_NeurIPS 2026_
+
+[**Paper**](https://openreview.net/forum?id=m7bhzxLZxE)
+
+</div>
+</div>
+
+
 <!-- Paper4 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/DVLA-RL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
