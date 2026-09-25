@@ -45,7 +45,7 @@ SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomple
 
 _NeurIPS 2026_
 
-[**Paper**](https://openreview.net/forum?id=m7bhzxLZxE)
+[**Paper**](https://arxiv.org/abs/2609.30238)
 
 </div>
 </div>
