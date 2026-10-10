@@ -120,7 +120,7 @@ _ACM MM 2024_
 
 
 # 🎖 Honors and Awards 
-- *2026.10* "华为杯"第八届中国研究生人工智能创新大赛全国三等奖
+- *2026.10* “华为杯”第八届中国研究生人工智能创新大赛全国三等奖（开放赛题-机器人与具身智能）
 - *2025.10* NeurIPS 2025 Scholar Award.
 - *2024.12* SDU Outstanding Student (First-Class)
 - *2024.11* WEICHAI Power Scholarship (Top 2%)
