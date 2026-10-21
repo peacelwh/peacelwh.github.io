@@ -120,6 +120,7 @@ _ACM MM 2024_
 
 
 # 🎖 Honors and Awards 
+- *2026.10* 中国科协青年科技人才培育工程博士生专项计划（托举单位：中国计算机学会）
 - *2026.10* “华为杯”第八届中国研究生人工智能创新大赛全国三等奖（开放赛题-机器人与具身智能）
 - *2025.10* NeurIPS 2025 Scholar Award.
 - *2024.12* SDU Outstanding Student (First-Class)
