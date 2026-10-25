@@ -48,7 +48,7 @@ SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomple
 
 _NeurIPS 2026_
 
-[**Paper**](https://arxiv.org/abs/2609.30238)
+[**Paper**](https://arxiv.org/abs/2609.30238) &emsp; [**Code**](https://github.com/peacelwh/SemMSA) &emsp; [**Project**](https://peacelwh.github.io/SemMSA/)
 
 </div>
 </div>
