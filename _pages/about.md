@@ -21,12 +21,13 @@ redirect_from:
 
 Since September 2023, I have been pursuing an integrated master’s and Ph.D. program in Artificial Intelligence at Shandong University (SDU), under the supervision of [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin/). During my studies, I have also worked closely with [Prof. Qiangchang Wang](https://faculty.sdu.edu.cn/wangqiangchang/) and [Prof. Zhongyi Han](https://faculty.sdu.edu.cn/hanzhongyi/zh_CN/index.htm). Since September 2025, I have been a joint Ph.D. candidate at Shenzhen Loop Area Institute (SLAI), under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/), where I also work closely with [Prof. Liang Han](https://homepage.hit.edu.cn/hanlianghit).
 
-My research focuses on multimodal perception, learning, and interaction with the physical world under constrained conditions, such as Few-Shot Learning (FSL), Multimodal Sentiment Analysis (MSA), and Vision-Language-Action models (VLA). Relevant work has been published at notable conferences and journals, including NeurIPS, ICLR, and ACM MM. I have served as a reviewer for leading conferences and journals in computer vision and machine learning, including IEEE TIP, IEEE TMM, NeurIPS, ICLR, and CVPR. My research interests include Embodied AI, Agentic RSI, and Multimodal Large Language Models.
+My research focuses on multimodal perception, learning, and interaction with the physical world under constrained conditions, such as Few-Shot Learning (FSL), Multimodal Sentiment Analysis (MSA), and Vision-Language-Action models (VLA). Relevant work has been published at notable conferences and journals, including NeurIPS, ICLR, and ACM MM. I have served as a reviewer for leading conferences and journals in computer vision and machine learning, including IEEE TPAMI, IEEE TIP, IEEE TMM, NeurIPS, ICLR, and CVPR. My research interests include Embodied AI, Agentic RSI, and Multimodal Large Language Models.
 
 <p style="color: red;"> I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me! </p>
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 Awarded the National Scholarship!
 - *2026.10*: &nbsp;🎉 入选中国科协青培博士生专项！
 - *2026.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2026!
 - *2026.05*: &nbsp;🎉 Co-authored papers are accepted by IEEE TCSVT, IEEE TAI, and Neurcomputing!
@@ -123,6 +124,7 @@ _ACM MM 2024_
 
 
 # 🎖 Honors and Awards 
+- *2026.11* National Scholarship, China
 - *2026.10* 中国科协青年科技人才培育工程博士生专项计划（托举单位：中国计算机学会）
 - *2026.10* “华为杯”第八届中国研究生人工智能创新大赛全国三等奖（开放赛题-机器人与具身智能）
 - *2025.10* NeurIPS 2025 Scholar Award.
