@@ -27,6 +27,7 @@ My research focuses on multimodal perception, learning, and interaction with the
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉 Awarded the National Scholarship!
 - *2026.10*: &nbsp;🎉 入选中国科协青培博士生专项！
 - *2026.09*: &nbsp;🎉 One paper is accepted by NeurIPS 2026!
 - *2026.05*: &nbsp;🎉 Co-authored papers are accepted by IEEE TCSVT, IEEE TAI, and Neurcomputing!
@@ -123,6 +124,7 @@ _ACM MM 2024_
 
 
 # 🎖 Honors and Awards 
+- *2026.11* National Scholarship, China
 - *2026.10* 中国科协青年科技人才培育工程博士生专项计划（托举单位：中国计算机学会）
 - *2026.10* “华为杯”第八届中国研究生人工智能创新大赛全国三等奖（开放赛题-机器人与具身智能）
 - *2025.10* NeurIPS 2025 Scholar Award.
